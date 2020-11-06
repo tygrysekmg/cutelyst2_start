@@ -1,0 +1,6 @@
+/home/wieslawa/Hello/build/CMakeFiles/rebuild_cache.dir
+/home/wieslawa/Hello/build/CMakeFiles/edit_cache.dir
+/home/wieslawa/Hello/build/src/CMakeFiles/rebuild_cache.dir
+/home/wieslawa/Hello/build/src/CMakeFiles/edit_cache.dir
+/home/wieslawa/Hello/build/src/CMakeFiles/Hello.dir
+/home/wieslawa/Hello/build/src/CMakeFiles/Hello_autogen.dir
